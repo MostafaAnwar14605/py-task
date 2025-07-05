@@ -1,0 +1,79 @@
+Can we convert the str to int ?
+No we can't
+----------------------------------
+Can we use semi colon ; with python
+Yes we can
+----------------------------------
+Python is interpreted or compiled ?
+The Both
+---------------------------------
+What is the differences between low level & high level
+high-level focusing on the broader
+, abstract,
+ and user-facing aspects,while low-level concentrates on the specific, detailed,
+and machine-oriented aspects.
+--------------------------------
+What is the differences between = , ==
+The = means that the number is equal to the number,
+while the == means whether the number is equal to the number or not.
+---------------------------------------
+What do we mean by using !=
+it means that the numer not equal to the number.
+---------------------------------------
+What is the operator precedence
+defines the order in which operations are performed within an expression.
+---------------------------------------
+Can we divide 11 by 3 and get an integer number ?
+Yes we can by use //
+---------------------------------------
+In which cases we will use all
+Use all() when you want to confirm that every item in a list (or any iterable) meets a condition or is not False.
+---------------------------------------
+What is the differences between all , and
+all ------>
+You have many conditions to check (in a list.)
+and ------> You have 2–3 conditions.
+---------------------------------------
+
+What is the differences between any , or
+any -----> You want to check if any item in a list is True.
+or ------> You have 2 or 3 individual conditions.
+---------------------------------------
+
+If we need all the conditions to be true we will use (all).
+---------------------------------------
+What is the differences between if , elif
+| if                   | elif                  
+| -------------------- | ------------------------- |
+| Starts the condition | Follows if `if` is False  |
+| Only one per block   | Can have multiple `elif`s |
+| Must be first        | Must follow `if`          |
+---------------------------------------
+What is the differences between elif else
+| Feature          | elif                      | else                          |
+| ---------------- | ------------------------  | ----------------------------- |
+| Has a condition? | ✅ Yes                    | ❌ No                         |
+| Can have many?   | ✅ Yes (multiple `elif`s) | ❌ Only one `else` allowed    |
+| When used?       | To check more conditions | To handle all remaining cases  | 
+---------------------------------------
+Can we use more than one elif 
+Yes we can
+---------------------------------------
+Can we use more than one else 
+No we can't
+---------------------------------------
+in elif , python will check all the conditions no matter what ?
+Yes
+---------------------------------------
+
+in elif we use else for (final conditional answer).
+---------------------------------------
+
+
+
+
+
+
+
+
+
