@@ -1,0 +1,2 @@
+Local variables  work inside functions only,
+Global variables work everywhere in the program.
